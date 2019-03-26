@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\Fibbonachi\Fibbonachi\obj\Debug\Fibbonachi.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\Fibbonachi\Fibbonachi\obj\Debug\Fibbonachi.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\Fibbonachi\Fibbonachi\bin\Debug\Fibbonachi.exe.config
+c:\users\acer-pc\source\repos\Fibbonachi\Fibbonachi\bin\Debug\Fibbonachi.exe
+c:\users\acer-pc\source\repos\Fibbonachi\Fibbonachi\bin\Debug\Fibbonachi.pdb
+c:\users\acer-pc\source\repos\Fibbonachi\Fibbonachi\obj\Debug\Fibbonachi.exe
+c:\users\acer-pc\source\repos\Fibbonachi\Fibbonachi\obj\Debug\Fibbonachi.pdb
